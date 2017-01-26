@@ -1,0 +1,13 @@
+{
+  "name": "node-application-patterns-membership",
+  "version": "1.0.0",
+  "author": "Rob Conery",
+  "description": "A Membership system pattern after Devise",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^11.1.2"
+  }
+}
